@@ -15,15 +15,15 @@
         },
         {
             "id": "2",
-            "name": "50 South Warren Long Sleeve",
+            "name": "Warren Dad Hat",
             "price": 22.50,
-            "description": "Long Sleeve shirt made for long nights on the sea.",
+            "description": "A hat that was designed to be worn by dads all around the world.",
             "size": ["L", "XL", "XXL", "2XL"],
             "color": ["Black", "White", "Blue"],
             "details": {
               "Material": "70% Wool / 20% Polyester"
             },
-            "imageUrl": "https://surf50south.com/cdn/shop/files/37_5c5c1a5b-f336-4b0e-8893-630a73d874a8_1024x1024@2x.jpg?v=1710792455",
+            "imageUrl": "https://surf50south.com/cdn/shop/files/46_1024x1024@2x.png?v=1713799282",
             "collection": "Summer 2022"
         },
         {

@@ -7,7 +7,7 @@ export default function Home() {
       <PalmTree height={500} width={500} />
         <Link
           href="/products"
-          className="animate-pulse mb-[15%] text-4xl font-bold text-gray-800 hover:text-pink-500 transition duration-300 ease-in-out transform hover:scale-110"
+          className="mb-[15%] text-4xl font-bold text-gray-800 hover:text-pink-500 transition duration-300 ease-in-out"
         >
           Blue Lagoon
         </Link>
