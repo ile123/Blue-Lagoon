@@ -39,7 +39,7 @@ export default function Products() {
   return (
     <>
       {products === undefined || products.length == 0 ? (
-        <i className="animate-spin rounded-full h-32 w-32 border-t-4 border-[#F0C166]" />
+        <i className="animate-spin rounded-full h-32 w-32 border-t-4 border-[#F0C166] mt-[15%]" />
       ) : (
         <div>
           <section className="mt-1 flex flex-col sm:flex-row items-center justify-between">

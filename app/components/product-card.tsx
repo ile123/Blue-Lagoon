@@ -28,7 +28,7 @@ export default function ProductCard({
             </div>
             <hr className="border-t-4 border-blue-100" />
             <div className="p-1 flex flex-col justify-between">
-              <h2 className="mt-2 mb-2 font-semibold text-center text-xl">
+              <h2 className="mt-2 mb-2 font-medium text-center text-xl">
                 {name}
               </h2>
               <div className="mt-1 flex items-center justify-between">
