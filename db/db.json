@@ -1,0 +1,108 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "name": "Sun, Waves & Surf Tee",
+            "price": 27.95,
+            "description": "Simple T-Shirt that anyone can wear.",
+            "size": ["S", "M", "L"],
+            "color": ["Red", "White", "Blue"],
+            "details": {
+              "Material": "70% Wool / 20% Polyester"
+            },
+            "imageUrl": "https://surf50south.com/cdn/shop/files/37_5c5c1a5b-f336-4b0e-8893-630a73d874a8_1024x1024@2x.jpg?v=1710792455",
+            "collection": "Summer 2022"
+        },
+        {
+            "id": "2",
+            "name": "50 South Warren Long Sleeve",
+            "price": 22.50,
+            "description": "Long Sleeve shirt made for long nights on the sea.",
+            "size": ["L", "XL", "XXL", "2XL"],
+            "color": ["Black", "White", "Blue"],
+            "details": {
+              "Material": "70% Wool / 20% Polyester"
+            },
+            "imageUrl": "https://surf50south.com/cdn/shop/files/37_5c5c1a5b-f336-4b0e-8893-630a73d874a8_1024x1024@2x.jpg?v=1710792455",
+            "collection": "Summer 2022"
+        },
+        {
+            "id": "3",
+            "name": "50 South Warren Long Sleeve",
+            "price": 39.95,
+            "description": "Long Sleeve shirt made for long nights on the sea.",
+            "size": ["M", "L", "XL"],
+            "color": ["Purple", "Pink", "Blue"],
+            "details": {
+              "Material": "70% Wool / 20% Polyester"
+            },
+            "imageUrl": "https://surf50south.com/cdn/shop/files/8_f9ba761c-f62e-43ef-90c2-4f4f053801be_1024x1024@2x.jpg?v=1707151202",
+            "collection": "Summer 2023"
+        },
+        {
+            "id": "4",
+            "name": "Goldie Bucket Hat",
+            "price": 19.95,
+            "description": "Latest bucket hat that will make you look good and protect your head from the sun.",
+            "size": ["M", "L"],
+            "color": ["Grey", "Cyan", "Blue"],
+            "details": {
+              "Material": "70% Wool / 20% Polyester"
+            },
+            "imageUrl": "https://surf50south.com/cdn/shop/products/bucket_1024x1024@2x.jpg?v=1680104075",
+            "collection": "Summer 2023"
+        },
+        {
+            "id": "5",
+            "name": "Island State Of Mind Hoodie",
+            "price": 10.95,
+            "description": "Hoodie that you can wear while walking down the beach while the moon is shining on you.",
+            "size": ["M", "L"],
+            "color": ["Grey", "Red", "Black"],
+            "details": {
+              "Material": "70% Wool / 20% Polyester"
+            },
+            "imageUrl": "https://surf50south.com/cdn/shop/files/5_1024x1024@2x.jpg?v=1707151388",
+            "collection": "Summer 2021"
+        },
+        {
+            "id": "6",
+            "name": "Sun Kissed Crop Tee",
+            "price": 10.95,
+            "description": "Crop Tee made to make you feel as cool as possible in the summer",
+            "size": ["M", "L"],
+            "color": ["Grey", "Red", "Black", "Velvet", "White"],
+            "details": {
+              "Material": "70% Wool / 20% Polyester"
+            },
+            "imageUrl": "https://surf50south.com/cdn/shop/files/30_1024x1024@2x.jpg?v=1710791364",
+            "collection": "Summer 2021"
+        },
+        {
+            "id": "7",
+            "name": "Harris Wave Tee",
+            "price": 15.95,
+            "description": "Tee that you can wear at any occasion.",
+            "size": ["M", "L", "XL"],
+            "color": ["Grey", "Black", "Velvet", "White"],
+            "details": {
+              "Material": "70% Wool / 20% Polyester"
+            },
+            "imageUrl": "https://surf50south.com/cdn/shop/files/49_1024x1024@2x.jpg?v=1715096129",
+            "collection": "Summer 2024"
+        },
+        {
+            "id": "8",
+            "name": "Hazy Crop Tank",
+            "price": 20.95,
+            "description": "Crop tank that can be worn at any occasion.",
+            "size": ["L", "XL", "2XL"],
+            "color": ["Grey", "Black", "Velvet", "White"],
+            "details": {
+              "Material": "70% Wool / 20% Polyester"
+            },
+            "imageUrl": "https://surf50south.com/cdn/shop/files/32_1024x1024@2x.jpg?v=1710790704",
+            "collection": "Summer 2024"
+        }
+    ]
+}
