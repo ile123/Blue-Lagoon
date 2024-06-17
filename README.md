@@ -1,36 +1,36 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Blue Lagoon
 
-## Getting Started
+Blue lagoon is a web shop that sells clothes for the summer season. The shop sells summer related apperal like t-shirts, tank tops, hats,...
 
-First, run the development server:
+The user can view all the available products, filter the products by collection and view additional information(like the diffrent sizes and colors) about the product in a dedicate page.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Blue Lagoon was built using:
+- Tailwind CSS
+- TypeScript
+- Next.js
+- JSON Server.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+***Time spent:*** 3-4 hours
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+***The implementation that was most challenging:*** 
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+The most challenging implementation was the layout of the site. Making the elements fall into the right places and making them responsive was the biggest challenge.
 
-## Learn More
+***The implementation you are most proud of:*** 
 
-To learn more about Next.js, take a look at the following resources:
+The implementation I am most proud of is the overall layout and responsivnes of the web app. The result is a responsive web app with a good layout.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+***Concise description of how you structured the project and any considerations you might have had:*** 
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+The project was structured according to Next.js specifications. Components and pages are located in the *app* directory. Database that was used with JSON Server is located under the *db* directory. Functions that were used to communicate with JSON Server are located in *lib*.
 
-## Deploy on Vercel
+During the development of the web app, my goal was to follow react's core principles as much as possible, while also utilizing utilizing TypeScript's features(custom types are located in the *types* directory). My biggest consideration was to limit the amount of node packages, so the project wouldn't take unecessary space.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+***How to run the project:***
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+In order to run the project, the following two commands need to be entered in seperate terminals:
+
+- npm run dev
+- npx json-server --watch db/db.json --port 3001
+
+Both Next.js and JSON Server have to be running in order for the web app to work.
